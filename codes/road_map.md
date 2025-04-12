@@ -24,198 +24,198 @@
 
 ## Dias 11 a 20 – Estrutura de dados
 
-Ordenador de lista (bubble sort)
+11. Ordenador de lista (bubble sort)
 
-Busca binária em uma lista
+12. Busca binária em uma lista
 
-Calculadora de média, moda e mediana
+13. Calculadora de média, moda e mediana
 
-Jogo da forca
+14. Jogo da forca
 
-Gerador de CPF aleatório válido
+15. Gerador de CPF aleatório válido
 
-Validador de CPF/CNPJ
+16. Validador de CPF/CNPJ
 
-Simulador de lista de compras
+17. Simulador de lista de compras
 
-Agenda de contatos simples (com CRUD em memória)
+18. Agenda de contatos simples (com CRUD em memória)
 
-Verificador de anagramas
+19. Verificador de anagramas
 
-Contador de palavras em um texto
+20. Contador de palavras em um texto
 
 ## Dias 21 a 30 – Arquivos e persistência
 
-Leitor de arquivos .txt
+21. Leitor de arquivos .txt
 
-Diário digital que grava e lê entradas de texto
+22. Diário digital que grava e lê entradas de texto
 
-Conversor de arquivos .txt para .csv
+23. Conversor de arquivos .txt para .csv
 
-Validador de senhas fortes (com critérios)
+24. Validador de senhas fortes (com critérios)
 
-App para registrar hábitos diários
+25. App para registrar hábitos diários
 
-Lista de tarefas com salvamento em arquivo
+26. Lista de tarefas com salvamento em arquivo
 
-Leitor de CSV com análise básica
+27. Leitor de CSV com análise básica
 
-Conversor de números romanos
+28. Conversor de números romanos
 
-Simulador de cofre com senha
+29. Simulador de cofre com senha
 
-Verificador de palíndromos
+30. Verificador de palíndromos
 
 ## Dias 31 a 40 – Projetos com interface (CLI ou GUI)
 
-Jogo da velha (contra computador ou 2 jogadores)
+31. Jogo da velha (contra computador ou 2 jogadores)
 
-Relógio digital com atualização ao vivo
+32. Relógio digital com atualização ao vivo
 
-Conversor de unidades (metros, km, polegadas...)
+33. Conversor de unidades (metros, km, polegadas...)
 
-Simulador de semáforo (com tempo)
+34. Simulador de semáforo (com tempo)
 
-Contador de cliques
+35. Contador de cliques
 
-Temporizador com alarme
+36. Temporizador com alarme
 
-Agenda com interface Tkinter
+37. Agenda com interface Tkinter
 
-Quiz interativo com perguntas e respostas
+38. Quiz interativo com perguntas e respostas
 
-Simulador de banco (criar conta, sacar, depositar)
+39. Simulador de banco (criar conta, sacar, depositar)
 
-Conversor de texto para voz
+40. Conversor de texto para voz
 
 ## Dias 41 a 50 – Web scraping e APIs
 
-Clima atual usando API (OpenWeather)
+41. Clima atual usando API (OpenWeather)
 
-Cotação de moedas com API (ex: dólar, euro)
+42. Cotação de moedas com API (ex: dólar, euro)
 
-Notícias do dia com web scraping
+43. Notícias do dia com web scraping
 
-Rastreador de preço de produto (ex: Amazon)
+44. Rastreador de preço de produto (ex: Amazon)
 
-Gerador de piadas com API
+45. Gerador de piadas com API
 
-Tradutor usando API do Google ou LibreTranslate
+46. Tradutor usando API do Google ou LibreTranslate
 
-Bot que envia mensagens via Telegram
+47. Bot que envia mensagens via Telegram
 
-Pesquisa automática no Google
+48. Pesquisa automática no Google
 
-Conversor de texto para PDF
+49. Conversor de texto para PDF
 
-Notificador de e-mails novos
+50. Notificador de e-mails novos
 
 ## Dias 51 a 60 – Pygame e jogos
 
-Jogo da cobrinha (Snake)
+51. Jogo da cobrinha (Snake)
 
-Pong (tenis de mesa 2D)
+52. Pong (tenis de mesa 2D)
 
-Jogo de labirinto
+53. Jogo de labirinto
 
-Jogo de plataforma simples (Mario-like)
+54. Jogo de plataforma simples (Mario-like)
 
-Quiz com pontuação
+55. Quiz com pontuação
 
-Jogo de clique rápido (reflexo)
+56. Jogo de clique rápido (reflexo)
 
-Jogo de cartas (ex: memória)
+57. Jogo de cartas (ex: memória)
 
-Corrida de obstáculos
+58. Corrida de obstáculos
 
-Simulador de vida (tipo “pet virtual”)
+59. Simulador de vida (tipo “pet virtual”)
 
-Jogo de tiro com alvo móvel
+60. Jogo de tiro com alvo móvel
 
 ## Dias 61 a 70 – Automação e bots
 
-Bot para renomear arquivos em massa
+61. Bot para renomear arquivos em massa
 
-Organizador automático de arquivos por extensão
+62. Organizador automático de arquivos por extensão
 
-Bot que limpa área de trabalho
+63. Bot que limpa área de trabalho
 
-Enviador de e-mails automáticos
+64. Enviador de e-mails automáticos
 
-Preenchedor de formulários com Selenium
+65. Preenchedor de formulários com Selenium
 
-Capturador de tela com botão
+66. Capturador de tela com botão
 
-Conversor de imagens para PDF
+67. Conversor de imagens para PDF
 
-Bot de boas-vindas em grupo do Discord
+68. Bot de boas-vindas em grupo do Discord
 
-Atualizador de planilha do Google Sheets
+69. Atualizador de planilha do Google Sheets
 
-Download automático de vídeos do YouTube
+70. Download automático de vídeos do YouTube
 
 ## Dias 71 a 80 – Web (Flask ou Django)
 
-Site pessoal com Flask
+71. Site pessoal com Flask
 
-Blog básico com CRUD
+72. Blog básico com CRUD
 
-Sistema de login e cadastro
+73. Sistema de login e cadastro
 
-Lista de tarefas online
+74. Lista de tarefas online
 
-Encurtador de URL
+75. Encurtador de URL
 
-Página que mostra o clima em tempo real
+76. Página que mostra o clima em tempo real
 
-Chat simples em tempo real
+77. Chat simples em tempo real
 
-Enquete com votos e resultados
+78. Enquete com votos e resultados
 
-Aplicativo de lista de filmes/séries assistidas
+79. Aplicativo de lista de filmes/séries assistidas
 
-Calculadora online estilizada com CSS
+80. Calculadora online estilizada com CSS
 
 ## Dias 81 a 90 – Dados e análise
 
-Leitor de planilha Excel
+81. Leitor de planilha Excel
 
-Gráfico de barras com matplotlib
+82. Gráfico de barras com matplotlib
 
-Análise de sentimentos de texto
+83. Análise de sentimentos de texto
 
-Dashboard com dados do COVID
+84. Dashboard com dados do COVID
 
-Previsão de preços com regressão linear
+85. Previsão de preços com regressão linear
 
-Detector de spam (machine learning básico)
+86. Detector de spam (machine learning básico)
 
-Contador de tempo gasto em cada app (desktop)
+87. Contador de tempo gasto em cada app (desktop)
 
-Classificador de imagem com TensorFlow
+88. Classificador de imagem com TensorFlow
 
-Conversor de PDF para texto com OCR
+89. Conversor de PDF para texto com OCR
 
-Word cloud de um livro (nuvem de palavras)
+90. Word cloud de um livro (nuvem de palavras)
 
 ## Dias 91 a 100 – Projetos maiores/finais
 
-App completo de tarefas com Flask e SQLite
+91. App completo de tarefas com Flask e SQLite
 
-Jogo em Pygame com múltiplas fases
+92. Jogo em Pygame com múltiplas fases
 
-Sistema de gerenciamento de biblioteca
+93. Sistema de gerenciamento de biblioteca
 
-Simulador de RPG por texto
+94. Simulador de RPG por texto
 
-Plataforma de estudos com registro de progresso
+95. Plataforma de estudos com registro de progresso
 
-Aplicativo de controle financeiro pessoal
+96. Aplicativo de controle financeiro pessoal
 
-Bot para Instagram (curtidas e follows)
+97. Bot para Instagram (curtidas e follows)
 
-Sistema de chat em rede local
+98. Sistema de chat em rede local
 
-API própria RESTful com Flask
+99. API própria RESTful com Flask
 
-Portfólio pessoal com projetos dos 100 dias
+100. Portfólio pessoal com projetos dos 100 dias
